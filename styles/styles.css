@@ -37,10 +37,10 @@
 .centered-icons{
   display: flex;
   justify-content: center;
-  margin-top: 30px;
+  margin-top: 20px;
 }
 .centered-icons a:first-child {
-  margin-right: 30px;
+  margin-right: 20px;
 }
 
 body {
