@@ -37,7 +37,7 @@
 .centered-icons{
   display: flex;
   justify-content: center;
-  margin-top: 50px;
+  margin-top: 30px;
 }
 .centered-icons a:first-child {
   margin-right: 30px;
